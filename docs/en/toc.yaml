@@ -5,9 +5,12 @@ items:
     href: about.md
   - name: Additional page 
     href: page.md
+  - name: Тестовая страничка
+    href: new-page.md
   - name: Another page 
     href: anotherpage.md
   - name: Sub-Section 
     include:
       path: sub-section/toc.yaml
       mode: link
+      
